@@ -1,9 +1,9 @@
 # Quantitative Financial Models in Python
 
-- Distribution Manager: For real distribution assets or simulated with statistical hypothesis test and other financial metrics.
-- Capital Asset Pricing Models.
+- Distribution Manager: For real distribution assets or simulated with statistical hypothesis test and other financial metrics
+- Capital Asset Pricing Models
 - Markwitz Portfolio (Modern Theory of Portfolio Management)
-- Portfolio Hedges Strategies and Optimización.
+- Portfolio Hedges Strategies and Optimización
 - Efficient Frontier
 - Greeks
 - Options
