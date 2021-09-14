@@ -2,7 +2,7 @@
 
 - Distribution Manager: For real distribution assets or simulated with statistical hypothesis test and other financial metrics
 - Capital Asset Pricing Models
-- Markwitz Portfolio (Modern Theory of Portfolio Management)
+- Markowitz Portfolio (Modern Theory of Portfolio Management)
 - Portfolio Hedges Strategies and Optimización
 - Efficient Frontier
 - Greeks
